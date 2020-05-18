@@ -1,2 +1,2 @@
 # Alura-DataScience
-Cursos na plataforma alura de Data Science
+Cursos da carreira Data Science na plataforma alura.
